@@ -1,0 +1,196 @@
+{
+  "services": [
+    {
+      "id": "men_hair_color",
+      "name": "Hair Color",
+      "description": "Professional hair coloring service including consultation, application, and styling. Natural-looking results with premium products suitable for all hair types.",
+      "categoryId": "men_salon_spa",
+      "subCategory": "Hair",
+      "price": {
+        "amount": "85",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.8",
+      "numberOfRatings": "342",
+      "estimatedDuration": "90 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "90",
+        "maxClientsPerSlot": 2
+      },
+      "features": ["Consultation included", "Premium products", "Color matching", "Style finishing"]
+    },
+    {
+      "id": "men_facial",
+      "name": "Facial",
+      "description": "Rejuvenating facial treatment customized for men's skin. Includes cleansing, exfoliation, mask, and moisturizing with focus on addressing common concerns like razor burn and ingrown hairs.",
+      "categoryId": "men_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "75",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.7",
+      "numberOfRatings": "289",
+      "estimatedDuration": "60 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "60",
+        "maxClientsPerSlot": 3
+      },
+      "features": ["Skin analysis", "Deep cleansing", "Custom mask", "Anti-aging treatment"]
+    },
+    {
+      "id": "men_pedicure",
+      "name": "Pedicure",
+      "description": "Therapeutic foot care treatment including nail trimming, callus removal, foot massage, and grooming. Designed specifically for men's foot care needs.",
+      "categoryId": "men_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "55",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.6",
+      "numberOfRatings": "156",
+      "estimatedDuration": "45 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "45",
+        "maxClientsPerSlot": 2
+      },
+      "features": ["Nail care", "Callus removal", "Foot massage", "Hot towel service"]
+    },
+    {
+      "id": "men_haircut",
+      "name": "Haircut",
+      "description": "Precision haircut and styling service including consultation, wash, cut, and style. Includes hot towel service and neck trim.",
+      "categoryId": "men_salon_spa",
+      "subCategory": "Hair",
+      "price": {
+        "amount": "45",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.9",
+      "numberOfRatings": "487",
+      "estimatedDuration": "30 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "30",
+        "maxClientsPerSlot": 4
+      },
+      "features": ["Consultation", "Shampoo & condition", "Precision cut", "Styling"]
+    },
+    {
+      "id": "men_manicure",
+      "name": "Manicure",
+      "description": "Professional nail care service for men including nail shaping, cuticle care, hand massage, and buffing for a clean, well-groomed appearance.",
+      "categoryId": "men_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "35",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.5",
+      "numberOfRatings": "134",
+      "estimatedDuration": "30 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "30",
+        "maxClientsPerSlot": 3
+      },
+      "features": ["Nail shaping", "Cuticle care", "Hand massage", "Buffing"]
+    },
+    {
+      "id": "beard_grooming",
+      "name": "Beard Grooming",
+      "description": "Complete beard maintenance service including trimming, shaping, hot towel treatment, and conditioning. Includes styling tips for ongoing maintenance.",
+      "categoryId": "men_salon_spa",
+      "subCategory": "Hair",
+      "price": {
+        "amount": "40",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.8",
+      "numberOfRatings": "298",
+      "estimatedDuration": "45 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "45",
+        "maxClientsPerSlot": 2
+      },
+      "features": ["Trim and shape", "Hot towel treatment", "Beard conditioning", "Styling consultation"]
+    }
+  ]
+}

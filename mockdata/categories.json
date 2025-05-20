@@ -1,0 +1,206 @@
+{
+  "categories": [
+    {
+      "id": "women_salon_spa",
+      "name": "Women's Salon & Spa",
+      "description": "Complete beauty and wellness services for women",
+      "primaryCategory": "Personal Care",
+      "subCategories": [],
+      "services": [
+        "Pedicure",
+        "Waxing",
+        "Manicure",
+        "Women Facial"
+      ],
+      "price": {
+        "startingAt": 30,
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.8,
+      "numberOfRatings": 1456,
+      "estimatedDuration": "1-3 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "men_salon_spa",
+      "name": "Men's Salon & Spa",
+      "description": "Grooming and wellness services for men",
+      "primaryCategory": "Personal Care",
+      "subCategories": [],
+      "services": [
+        "Hair Color",
+        "Facial",
+        "Pedicure",
+        "Haircut",
+        "Manicure",
+        "Beard Grooming"
+      ],
+      "price": {
+        "startingAt": 25,
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.7,
+      "numberOfRatings": 982,
+      "estimatedDuration": "30-90 minutes",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "cleaning_household",
+      "name": "Cleaning & Household Chores",
+      "description": "Professional home cleaning and household maintenance",
+      "primaryCategory": "Home Services",
+      "subCategories": [],
+      "services": [
+        "Intense Kitchen Cleaning",
+        "Bathroom Cleaning",
+        "Disinfection Services",
+        "Sofa Cleaning",
+        "Full Home Cleaning"
+      ],
+      "price": {
+        "startingAt": 25,
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.6,
+      "numberOfRatings": 1283,
+      "estimatedDuration": "2-4 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "appliance_repair",
+      "name": "Duct & Appliance Repair",
+      "description": "Expert repair services for ducts and home appliances",
+      "primaryCategory": "Home Services",
+      "subCategories": [],
+      "services": [
+        "Washing Machine Repair",
+        "Jet Spray Installation/Repair",
+        "Tap Repair",
+        "Refrigerator Repair"
+      ],
+      "price": {
+        "startingAt": 45,
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.8,
+      "numberOfRatings": 675,
+      "estimatedDuration": "1-3 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "lawn_garden",
+      "name": "Grass Trimmers & Bushcutters",
+      "description": "Professional lawn and garden maintenance",
+      "primaryCategory": "Outdoor Services",
+      "subCategories": [],
+      "services": [],
+      "price": {
+        "startingAt": 35,
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.7,
+      "numberOfRatings": 821,
+      "estimatedDuration": "1-2 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "moving_services",
+      "name": "Household Goods Movers",
+      "description": "Professional packing and moving services",
+      "primaryCategory": "Moving Services",
+      "subCategories": [],
+      "services": [],
+      "price": {
+        "startingAt": 40,
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.6,
+      "numberOfRatings": 543,
+      "estimatedDuration": "3-8 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "electrical_services",
+      "name": "Electricians",
+      "description": "Licensed electricians for all electrical repairs and installations",
+      "primaryCategory": "Home Services",
+      "subCategories": [],
+      "services": [
+        "Door Lock Repair",
+        "Drill & Hang"
+      ],
+      "price": {
+        "startingAt": 65,
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.9,
+      "numberOfRatings": 356,
+      "estimatedDuration": "1-3 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "plumbing_services",
+      "name": "Plumbers",
+      "description": "Professional plumbing services for repairs and installations",
+      "primaryCategory": "Home Services",
+      "subCategories": [],
+      "services": [
+        "Jet Spray Installation/Repair",
+        "Tap Repair"
+      ],
+      "price": {
+        "startingAt": 60,
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.8,
+      "numberOfRatings": 289,
+      "estimatedDuration": "1-2 hours",
+      "availability": {},
+      "features": []
+    },
+    {
+      "id": "carpentry_services",
+      "name": "Carpenters",
+      "description": "Skilled carpenters for woodworking and furniture repairs",
+      "primaryCategory": "Home Services",
+      "subCategories": [],
+      "services": [
+        "Wooden Door Repair"
+      ],
+      "price": {
+        "startingAt": 55,
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": 4.7,
+      "numberOfRatings": 211,
+      "estimatedDuration": "1-4 hours",
+      "availability": {},
+      "features": []
+    }
+  ]
+}

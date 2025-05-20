@@ -1,0 +1,196 @@
+{
+  "services": [
+    {
+      "id": "women_pedicure",
+      "name": "Pedicure",
+      "description": "Indulge in our luxurious pedicure service that includes a relaxing foot soak, expert nail care, gentle callus removal, and a soothing foot massage. Finished with your choice of premium polish for beautiful, well-maintained feet.",
+      "categoryId": "women_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "65",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "pedicure.jpg",
+      "rating": "4.8",
+      "numberOfRatings": "456",
+      "estimatedDuration": "60 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "60",
+        "maxClientsPerSlot": 3
+      },
+      "features": ["Foot massage", "Nail care", "Callus removal", "Polish application"]
+    },
+    {
+      "id": "women_waxing",
+      "name": "Waxing",
+      "description": "Experience smooth, hair-free skin with our professional waxing services. Using premium hypoallergenic wax and expert techniques, we ensure minimal discomfort and long-lasting results. Includes pre-wax skin preparation and post-wax soothing treatment.",
+      "categoryId": "women_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "45",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "waxing.jpg",
+      "rating": "4.7",
+      "numberOfRatings": "378",
+      "estimatedDuration": "30 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "30",
+        "maxClientsPerSlot": 2
+      },
+      "features": ["Skin preparation", "Premium wax", "Post-care treatment", "Consultation"]
+    },
+    {
+      "id": "women_manicure",
+      "name": "Manicure",
+      "description": "Treat your hands to our signature manicure service featuring precise nail shaping, gentle cuticle care, and a hydrating hand massage. Completed with your choice of premium polish for perfectly groomed, beautiful hands.",
+      "categoryId": "women_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "45",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "manicure.jpg",
+      "rating": "4.8",
+      "numberOfRatings": "412",
+      "estimatedDuration": "45 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "45",
+        "maxClientsPerSlot": 3
+      },
+      "features": ["Nail shaping", "Cuticle care", "Hand massage", "Polish application"]
+    },
+    {
+      "id": "women_facial",
+      "name": "Facial",
+      "description": "Rejuvenate your skin with our customized facial treatment. Beginning with a thorough skin analysis, this service includes deep cleansing, gentle exfoliation, a relaxing face massage, and a personalized mask to address your specific skin concerns.",
+      "categoryId": "women_salon_spa",
+      "subCategory": "Spa",
+      "price": {
+        "amount": "85",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "facial.jpg",
+      "rating": "4.9",
+      "numberOfRatings": "523",
+      "estimatedDuration": "75 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "75",
+        "maxClientsPerSlot": 2
+      },
+      "features": ["Skin analysis", "Deep cleansing", "Face massage", "Custom mask"]
+    },
+    {
+      "id": "hair_straightening",
+      "name": "Straightening",
+      "description": "Transform your hair with our professional straightening service. Starting with a thorough consultation, we use premium straightening products and advanced techniques to achieve smooth, manageable hair that suits your desired style and hair type.",
+      "categoryId": "women_salon_spa",
+      "subCategory": "Hair",
+      "price": {
+        "amount": "150",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "straightening.jpg",
+      "rating": "4.7",
+      "numberOfRatings": "289",
+      "estimatedDuration": "120 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "120",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Consultation", "Treatment application", "Heat styling", "Finishing products"]
+    },
+    {
+      "id": "makeup_service",
+      "name": "Makeup",
+      "description": "Enhance your natural beauty with our professional makeup service. We begin with skin preparation and precise color matching, followed by expert application of high-quality products. Perfect for special occasions or whenever you want to look your absolute best.",
+      "categoryId": "women_salon_spa",
+      "subCategory": "Makeup",
+      "price": {
+        "amount": "75",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "makeup.jpg",
+      "rating": "4.8",
+      "numberOfRatings": "467",
+      "estimatedDuration": "60 minutes",
+      "availability": {
+        "weekdays": {
+          "monday": "9:00-19:00",
+          "tuesday": "9:00-19:00",
+          "wednesday": "9:00-19:00",
+          "thursday": "9:00-19:00",
+          "friday": "9:00-19:00"
+        },
+        "weekend": {
+          "saturday": "10:00-17:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "60",
+        "maxClientsPerSlot": 2
+      },
+      "features": ["Skin preparation", "Foundation matching", "Eye makeup", "Full face application"]
+    }
+  ]
+}

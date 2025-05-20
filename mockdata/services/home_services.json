@@ -1,0 +1,388 @@
+{
+  "services": [
+    {
+      "id": "washing_machine_repair",
+      "name": "Washing Machine Repair",
+      "description": "Professional diagnosis and repair of all washing machine brands. Includes parts inspection, repair, and testing.",
+      "categoryId": "appliance_repair",
+      "subCategory": "laundry_appliances",
+      "price": {
+        "amount": "49.99",
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.7",
+      "numberOfRatings": "283",
+      "estimatedDuration": "90",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "90",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Same day service", "90-day warranty", "Certified technicians"]
+    },
+    {
+      "id": "kitchen_cleaning",
+      "name": "Intense Kitchen Cleaning",
+      "description": "Deep cleaning service for your kitchen including appliances, cabinets, countertops, and floors. Includes degreasing and sanitization.",
+      "categoryId": "cleaning_household",
+      "subCategory": "kitchen_cleaning",
+      "price": {
+        "amount": "129.99",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.8",
+      "numberOfRatings": "456",
+      "estimatedDuration": "240",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "240",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Eco-friendly products", "Professional equipment", "Deep cleaning guarantee"]
+    },
+    {
+      "id": "jet_spray_repair",
+      "name": "Jet Spray Installation/Repair",
+      "description": "Expert installation and repair of bathroom jet sprays. Includes pressure testing and leak checks.",
+      "categoryId": "plumbing_services",
+      "subCategory": "bathroom_fixtures",
+      "price": {
+        "amount": "39.99",
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.6",
+      "numberOfRatings": "167",
+      "estimatedDuration": "60",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "60",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Quality parts", "1-year warranty", "Emergency service"]
+    },
+    {
+      "id": "bathroom_cleaning",
+      "name": "Bathroom Cleaning",
+      "description": "Comprehensive bathroom cleaning service including fixtures, tiles, and sanitization.",
+      "categoryId": "cleaning_household",
+      "subCategory": "bathroom_cleaning",
+      "price": {
+        "amount": "79.99",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.7",
+      "numberOfRatings": "389",
+      "estimatedDuration": "120",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "120",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Deep sanitization", "Mold treatment", "Eco-friendly products"]
+    },
+    {
+      "id": "disinfection_services",
+      "name": "Disinfection Services",
+      "description": "Professional disinfection service for homes and offices using hospital-grade disinfectants.",
+      "categoryId": "cleaning_household",
+      "subCategory": "sanitization",
+      "price": {
+        "amount": "149.99",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.9",
+      "numberOfRatings": "521",
+      "estimatedDuration": "180",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "180",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["EPA approved products", "Complete coverage", "Certificate of service"]
+    },
+    {
+      "id": "sofa_cleaning",
+      "name": "Sofa Cleaning",
+      "description": "Professional sofa and upholstery cleaning service using advanced cleaning methods.",
+      "categoryId": "cleaning_household",
+      "subCategory": "furniture_cleaning",
+      "price": {
+        "amount": "89.99",
+        "unit": "seat",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.8",
+      "numberOfRatings": "342",
+      "estimatedDuration": "120",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "120",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Stain removal", "Fabric protection", "Deodorizing"]
+    },
+    {
+      "id": "tap_repair",
+      "name": "Tap Repair",
+      "description": "Professional repair service for all types of taps and faucets. Includes parts replacement if needed.",
+      "categoryId": "plumbing_services",
+      "subCategory": "fixtures",
+      "price": {
+        "amount": "34.99",
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.6",
+      "numberOfRatings": "298",
+      "estimatedDuration": "45",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "45",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Emergency service", "Parts warranty", "Leak guarantee"]
+    },
+    {
+      "id": "refrigerator_repair",
+      "name": "Refrigerator Repair",
+      "description": "Expert repair service for all refrigerator brands. Includes diagnostic and repair.",
+      "categoryId": "appliance_repair",
+      "subCategory": "kitchen_appliances",
+      "price": {
+        "amount": "79.99",
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.7",
+      "numberOfRatings": "412",
+      "estimatedDuration": "120",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "120",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Same day service", "3-month warranty", "Certified technicians"]
+    },
+    {
+      "id": "door_lock_repair",
+      "name": "Door Lock Repair",
+      "description": "Security lock installation, repair, and maintenance for all types of doors.",
+      "categoryId": "electrical_services",
+      "subCategory": "locks",
+      "price": {
+        "amount": "59.99",
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.8",
+      "numberOfRatings": "267",
+      "estimatedDuration": "60",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "60",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["24/7 emergency service", "Security consultation", "Warranty included"]
+    },
+    {
+      "id": "full_home_cleaning",
+      "name": "Full Home Cleaning",
+      "description": "Comprehensive cleaning service for your entire home, including all rooms and surfaces.",
+      "categoryId": "cleaning_household",
+      "subCategory": "full_house",
+      "price": {
+        "amount": "199.99",
+        "unit": "service",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.9",
+      "numberOfRatings": "634",
+      "estimatedDuration": "360",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "closed"
+        },
+        "slotDuration": "360",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Custom cleaning plan", "Eco-friendly products", "Satisfaction guarantee"]
+    },
+    {
+      "id": "wooden_door_repair",
+      "name": "Wooden Door Repair",
+      "description": "Professional repair service for wooden doors including fixing cracks, alignment, and hardware replacement.",
+      "categoryId": "carpentry_services",
+      "subCategory": "doors",
+      "price": {
+        "amount": "69.99",
+        "unit": "visit",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.7",
+      "numberOfRatings": "189",
+      "estimatedDuration": "120",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "120",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Quality materials", "Finish matching", "Hardware upgrade options"]
+    },
+    {
+      "id": "drill_and_hang",
+      "name": "Drill & Hang",
+      "description": "Professional mounting service for artwork, TVs, shelves, and other wall-mounted items.",
+      "categoryId": "electrical_services",
+      "subCategory": "mounting",
+      "price": {
+        "amount": "44.99",
+        "unit": "hour",
+        "currency": "CAD"
+      },
+      "image": "",
+      "rating": "4.8",
+      "numberOfRatings": "378",
+      "estimatedDuration": "60",
+      "availability": {
+        "weekdays": {
+          "monday": "8:00-20:00",
+          "tuesday": "8:00-20:00",
+          "wednesday": "8:00-20:00",
+          "thursday": "8:00-20:00",
+          "friday": "8:00-20:00"
+        },
+        "weekend": {
+          "saturday": "9:00-18:00",
+          "sunday": "9:00-16:00"
+        },
+        "slotDuration": "60",
+        "maxClientsPerSlot": 1
+      },
+      "features": ["Wall assessment", "Professional tools", "Mounting hardware included"]
+    }
+  ]
+}
