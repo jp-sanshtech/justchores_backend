@@ -31,5 +31,9 @@ app.use('/api/services', serviceRouter);
 app.use('/api', profileRouter);
 app.use('/api/payments', paymentRouter);
 
+app.get('/', (req, res) => {
+  res.send('✅ JustChores Backend is running');
+});
+
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
